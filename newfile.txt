@@ -1,2 +1,6 @@
 hi there
+<<<<<<< HEAD
 additional line
+=======
+added one more line from repo2
+>>>>>>> ca7202bf7ce9a7ca60e36a229db1e37e1dde4d3c
